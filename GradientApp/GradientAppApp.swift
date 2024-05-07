@@ -11,7 +11,7 @@ import SwiftUI
 struct GradientAppApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            CoreView()
         }
     }
 }
